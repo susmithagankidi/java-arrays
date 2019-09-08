@@ -1,5 +1,3 @@
-Arrays basics:
-
 import java.util.Arrays;
 
 public class ArrayClass {
